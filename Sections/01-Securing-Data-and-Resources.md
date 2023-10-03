@@ -99,3 +99,11 @@ Azure Data Factory:
  - Azure offers RBAC to define and manage permissions for various Azure resources. PoLP can be achieved by defining custom roles with precise permissions. For instance, you can create a custom role that allows a user to manage AI resources but not modify networking configurations or access billing information.
 
 By following the Principle of Least Privilege in these examples, organizations can reduce the risk of data breaches, accidental data exposure, or misuse of AI services within Microsoft Azure, thereby enhancing the overall security and compliance of their AI projects.
+
+
+### Resources
+- https://learn.microsoft.com/en-us/azure/active-directory/develop/secure-least-privileged-access
+- https://learn.microsoft.com/en-us/azure/key-vault/general/overview
+- https://learn.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview
+- https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview
+- https://learn.microsoft.com/en-us/azure/expressroute/expressroute-introduction

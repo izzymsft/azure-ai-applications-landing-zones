@@ -100,7 +100,6 @@ Azure Data Factory:
 
 By following the Principle of Least Privilege in these examples, organizations can reduce the risk of data breaches, accidental data exposure, or misuse of AI services within Microsoft Azure, thereby enhancing the overall security and compliance of their AI projects.
 
-
 ### Resources
 - https://learn.microsoft.com/en-us/azure/active-directory/develop/secure-least-privileged-access
 - https://learn.microsoft.com/en-us/azure/key-vault/general/overview

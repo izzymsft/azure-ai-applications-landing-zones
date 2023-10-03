@@ -1,5 +1,7 @@
 # Security Best Practices
 
+**[Home](../README.md)**
+
 The exchange of data between different components of the architecture must always leverage and implement a solution that ensures that credentials to OpenAI resources are not in environment variables or configuration files while leveraging Azure Virtual Networks ensure that the OpenAI endpoints are only reachable from specific networks.
 
 - Using Private Network for Communications
